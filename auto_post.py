@@ -108,8 +108,8 @@ def is_get_element(in_driver, xpath_str, description, log_save_path):
         return False
     
 URL = "https://www.jietiandi.net/forum.php?mod=forumdisplay&fid=178"
-user_name = 'stone3112'
-password = 'FTYUftyu3112'
+user_name = ' '
+password = ' '
 nums = 30
 log_dirs = "./log"
 image_save_dirs = "./save_yanzhengma_img"
